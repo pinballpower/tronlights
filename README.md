@@ -1,6 +1,6 @@
 # Tron ramp lights
 
-The is a prohect to add light tubes to the Tron Pro model
+The is a project to add light tubes to the Tron Pro model
 
 ## Related projects
 
