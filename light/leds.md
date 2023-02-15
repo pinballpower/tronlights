@@ -18,7 +18,7 @@ Continuous power of about 2W for 30minutes+ working well.
 |500mA|3.2V|3.7V|4.1V|
 |600mA|3.5V|3.9V|4.4V|
 
-Running on a single color at 600mA, the device heats up to 65°C, which is still unproblematic. However, as the additional luminosity is minimal, it's probably best to drive these with about 400mA per color.
+Temperature of the aluminoium enclosure running on a single color at 400mA is <50°C. Running on a single color at 600mA, the device heats up to 65°C, which is still unproblematic. However, as the additional luminosity is minimal, it's probably best to drive these with about 400mA per color.
 
 This results in the following resistor values when running at 5V or 6V operating voltage
 
