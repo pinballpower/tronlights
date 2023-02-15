@@ -19,3 +19,12 @@ Continuous power of about 2W for 30minutes+ working well.
 |600mA|3.5V|3.9V|4.4V|
 
 Running on a single color at 600mA, the device heats up to 65°C, which is still unproblematic. However, as the additional luminosity is minimal, it's probably best to drive these with about 400mA per color.
+
+This results in the following resistor values when running at 5V or 6V operating voltage
+
+|Voltage|R|G|B|
+|---|---|---|---|
+|5V|5&Omega;|3.8&Omega;|3&Omega;|
+|6V|7.5&Omega;|6.3&Omega;|5.5&Omega;|
+
+
